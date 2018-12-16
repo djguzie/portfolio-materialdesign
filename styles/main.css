@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background: url(/Users/djguzie/program/portfolio/images/desk_image.jpg) center / cover;
+  background: url(/images/desk_image.jpg) center / cover;
   height: 67vh;
   justify-content: center;
   text-align: center;

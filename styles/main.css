@@ -1,0 +1,46 @@
+body {
+  padding-bottom: 5rem;
+}
+
+header {
+  background: url(/Users/djguzie/program/portfolio/images/desk_image.jpg) center / cover;
+  height: 67vh;
+  justify-content: center;
+  text-align: center;
+}
+
+main {
+  max-width: 900px;
+}
+
+h1 {
+  color: hsla(0, 100%, 0%, 0.9);
+  font-weight: bold;
+}
+
+.slogan {
+  color: hsla(0, 100%, 0%, 0.8);
+  font-weight: lighter;
+  font-size: 1.6rem;
+}
+
+.project-description {
+  padding-left: 0;
+}
+
+.project img {
+  width: 100%;
+}
+
+footer.mdl-mini-footer {
+  bottom: 0;
+  padding: 0.5rem;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+footer.mdl-mini-footer > ul {
+  margin: auto;
+  font-size: 3rem;
+}
